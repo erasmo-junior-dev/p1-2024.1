@@ -10,7 +10,7 @@ int main() {
     
     scanf("%lf\n%c", &litroCombustivel, &tipoCombustivel);
     
-    // Deixei tudo em um scanf, pois est� dando erro de mem�ria em mais de um scanf.
+    // Deixei tudo em um scanf, pois está dando erro de memória em mais de um scanf.
     
     if (tipoCombustivel == 'A'){
         
